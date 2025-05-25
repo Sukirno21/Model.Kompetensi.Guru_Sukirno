@@ -1,6 +1,3 @@
-#Uji Model Kompetensi Guru - Sukirno
-
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
